@@ -64,7 +64,7 @@ function Contact() {
                         type="text"
                         id="messageName"
                         name="messageName"
-                        className="form-control fs-5"
+                        className="form-control fs-5 formo"
                         placeholder="Full Name"
                         required
                       />
