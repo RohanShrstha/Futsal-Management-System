@@ -1,0 +1,11 @@
+.no-underline {
+    text-decoration: none;
+}
+
+.logbtn {
+    width: 100%;
+}
+
+section a:hover {
+    cursor: pointer;
+}

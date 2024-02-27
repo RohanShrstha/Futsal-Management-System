@@ -1,0 +1,34 @@
+.content{
+    background-color: aqua;
+    width: 75%;
+    min-height: 100vh;
+    border: 1px solid black;
+}
+ .summary{
+    background-color: plum;
+    width: 25%;
+    height: 60vh;
+    border: 1px solid black;
+ }
+
+ .image{
+    width: 30%;
+    border: 1px solid black;
+ }
+
+ .detail{
+    width: 70%;
+    border: 1px solid black;
+ }
+ .button-section{
+    width: 10%;
+    border: 1px solid black;
+ }
+ .summary-info{
+   border: 2px solid black;
+   padding: 20px 5px;
+ }
+ .checkout{
+   width: 100%;
+   padding: 5px;
+ }
