@@ -81,7 +81,7 @@ function HomeContent() {
           </button>
         )}
       </div>
-      <div className="text-center d-flex justify-content-center mt-5 mb-2">
+      <div className="text-center d-flex justify-content-center mt-5 mb-2 description">
         <section className="col-8">
           <h1 className="fs-1">Welcome to Futsal Booking Site</h1>
           <p className="lead text-muted text-center fs-5">
