@@ -92,7 +92,7 @@ function HomeContent() {
             <br /> This is an online booking webpage that makes it simple for
             customers to reserve the futsal they want for the time that works
             best for them. Futsal business owners can easily list and manage all
-            of their varied services here.
+            of their varied services here in this system.
           </p>
         </section>
       </div>
